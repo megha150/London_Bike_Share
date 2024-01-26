@@ -28,3 +28,14 @@ The dataset used in this project is the [London Bike Sharing dataset](https://ww
 8. is_holiday <br>
 9. is_weekend <br>
 10. season <br>
+
+## Key Findings:
+Impact of Weather on Bike Usage:<br>
+Bike rides tend to decrease during adverse weather conditions, such as rain or snow. Clear and mild weather correlates with increased bike usage.<br>
+<br>
+Total Bike Rides Between Specific Periods:<br>
+The total number of bike rides significantly increases during weekends compared to weekdays. Seasonal trends show a surge in bike rides during the summer months.<br>
+<br>
+Moving Average:<br>
+The 2-week moving average reveals a steady increase in bike rides over the analyzed period. Variations in the moving average can be attributed to seasonal changes and events.
+
