@@ -39,3 +39,7 @@ The total number of bike rides significantly increases during weekends compared 
 Moving Average:<br>
 The 2-week moving average reveals a steady increase in bike rides over the analyzed period. Variations in the moving average can be attributed to seasonal changes and events.
 
+## Tools Used
+Jupyter Notebook<br>
+Python<br>
+Tableau
